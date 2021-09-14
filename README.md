@@ -28,6 +28,7 @@ Connect on your VPS =>
 - git clone https://github.com/xavatar/yiimp_install_scrypt.git
 - cd yiimp_install_scrypt/
 - bash install.sh (DO NOT RUN THE SCRIPT AS ROOT or SUDO)
+- sudo apt install php7.3-memcache php7.3-memcached memcached (For blank page)
 - At the end, you MUST REBOOT to finalize installation...
 
 Finish !
